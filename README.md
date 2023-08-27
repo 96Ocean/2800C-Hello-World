@@ -1,4 +1,4 @@
-# 2800C-Hello-World
+# Sagar-Amin-Intro-To-Java-2800C
 
 We create a class named "Main" by using "public class Main".
 
